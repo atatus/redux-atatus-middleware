@@ -11,13 +11,13 @@ Because Redux contains the state of your whole application and is aware of the l
 #### 1. Add dependencies
 
 ``` bash
-npm install atatus-redux-middleware --save
+npm install redux-atatus-middleware --save
 ```
 
 #### 2. Import dependency
 
 ``` js
-import atatusMiddleware from 'atatus-redux-middleware';
+import atatusMiddleware from 'redux-atatus-middleware';
 ```
 
 #### 3. Configure & add middleware
